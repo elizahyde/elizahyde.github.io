@@ -1,6 +1,6 @@
 body { padding-top: 70px; }
 
-a:hover {
+a:hover, a:hover [class^="icon-"], .navbar-nav > li > a:hover {
   color: yellow;
 }
 
@@ -54,5 +54,10 @@ a {
 
 .orangeme {
   height: auto;
-  width: 293px;
+  width: 360px;
+  margin-bottom: 20px;
+}
+
+#carouselBrunchover {
+  margin-bottom: 20px;
 }
