@@ -1,5 +1,12 @@
 body { padding-top: 70px; }
 
+a:hover {
+  color: yellow;
+}
+
+a {
+  color: #F55B2C;
+}
 .navbar-brand {
   font-family: 'Just Me Again Down Here', cursive;
   font-size: 48px;
@@ -37,7 +44,7 @@ body { padding-top: 70px; }
  font-family: 'Oleo Script Swash Caps', cursive;
  color: white;
  letter-spacing: 2px;
- text-shadow:2px 2px 8px #000000;
+ text-shadow: 4px 4px 1px rgba(0,0,0,0.15);
 }
 
 .navbar-nav > li > a {
