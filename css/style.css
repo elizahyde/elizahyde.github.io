@@ -47,6 +47,13 @@ a {
  text-shadow: 4px 4px 1px rgba(0,0,0,0.15);
 }
 
+.mychillpill {
+  color: white;
+  font-size: 32px;
+  text-shadow: 4px 4px 1px rgba(0,0,0,0.15);
+  font-family: 'Fredoka One', cursive;
+}
+
 .navbar-nav > li > a {
   font-size: 19px;
   color: #ebebeb;
